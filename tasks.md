@@ -1,6 +1,6 @@
 ## Задача – Разпознаване на числа. 
-Създайте модел с [Teachable Machine](https://www.google.com), който разпознава ръкописни числа от снимки. 
-За целта изтеглете следния архив със снимки: [dataset](https://teachablemachine.withgoogle.com/train/image)
+Създайте модел с [Teachable Machine](https://teachablemachine.withgoogle.com/train/image), който разпознава ръкописни числа от снимки. 
+За целта изтеглете следния архив със снимки: [dataset](https://github.com/carolinepetrova/introduction_to_AI/raw/main/dataset.zip)
 За всяко число създайте отделен клас и прикачете снимките от всяка директория към съответния клас.
 Натиснете “Train Model”.
 Тествайте вашия модел чрез снимка на число, която сте създали в пейнт, или през вашите камери и лист с написано число. 
