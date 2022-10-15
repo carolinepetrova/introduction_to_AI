@@ -11,16 +11,5 @@
 <details>
   <summary>Решение</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+![alt text](https://i.ibb.co/WfjnSwX/Screenshot-2022-10-15-at-7-46-56.png)
 </details>
