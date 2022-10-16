@@ -3,7 +3,7 @@ Repository for "Introduction to Artificial Intelligence" seminar led by me on Co
 
 ## Съдържание
 - [Задачи](https://github.com/carolinepetrova/introduction_to_AI/blob/main/tasks.md)
-- Проекти
+- [Проекти] (https://github.com/carolinepetrova/introduction_to_AI/blob/main/projects.md)
 
 ## Полезни курсове и ресурси
 1. [Introduction to Python](https://www.youtube.com/watch?v=eWRfhZUzrAc&ab_channel=freeCodeCamp.org) - безплатен курс за програмиране на Python
